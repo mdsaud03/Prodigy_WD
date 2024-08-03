@@ -22,14 +22,20 @@ header {
     text-align: center;
 
 }
+#div2 {
+    text-align: center;
+}
+#div3 {
+    text-align: center;
+}
+#div4 {
+    text-align: center;
+}
+
 div {
     text-align: justify;
     text-justify: inter-word;
   }
-#div3{
-    text-align: justify;
-    align-content: center;
-}
   
 
 nav .container {
@@ -152,8 +158,8 @@ nav .container {
 footer {
     background: #333;
     color: #fff;
-    padding: 10px 0;
-    text-align: center;
+    padding: 30px 30px;
+    text-align: right;
 }
 
 footer .social-links {
