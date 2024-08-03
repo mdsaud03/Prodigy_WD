@@ -18,10 +18,18 @@ header {
     padding: 10px 0;
     position: relative;
 }
+#div1 {
+    text-align: center;
+
+}
 div {
     text-align: justify;
     text-justify: inter-word;
   }
+#div3{
+    text-align: justify;
+    align-content: center;
+}
   
 
 nav .container {
